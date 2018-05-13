@@ -1,0 +1,20 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+.drag{
+	width:100px;
+	height:100px;
+	background:red;
+}
+.drop{
+	width:500px;
+	height:500px;
+	background:blue;
+}
+.totalCode{
+	display:none;
+}
+.ui-state-active{
+	background:red;
+}
